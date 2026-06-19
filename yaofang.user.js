@@ -11,8 +11,8 @@
 // @description:zh-HK Yet Another Weibo Filter (YAWF) 新浪微博根據關鍵詞、作者、話題、來源等篩選微博；修改版面
 // @description:zh-TW Yet Another Weibo Filter (YAWF) 新浪微博根據關鍵詞、作者、話題、來源等篩選微博；修改版面
 // @description:en    Sina Weibo feed filter by keywords, authors, topics, source, etc.; Modifying webpage layout
-// @namespace         https://github.com/tiansh
-// @version           5.0.108
+// @namespace         https://github.com/machdive/script
+// @version           5.0.108.1
 // @match             *://*.weibo.com/*
 // @match             *://t.cn/*
 // @include           *://weibo.com/*
@@ -60,6 +60,8 @@
 // @license           MPL-2.0
 // @homepageURL       https://tiansh.github.io/yawf/
 // @supportURL        https://github.com/tiansh/yawf/issues
+// @updateURL    https://raw.githubusercontent.com/machdive/script/main/yaofang.user.js
+// @downloadURL  https://raw.githubusercontent.com/machdive/script/main/yaofang.user.js
 // ==/UserScript==
 
 /*!
